@@ -1,4 +1,4 @@
-#SMA for Booking.com 
+# SMA for Booking.com 
 
 University project files.
 
