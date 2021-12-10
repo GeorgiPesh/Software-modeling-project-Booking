@@ -1,5 +1,6 @@
-# Software-modeling-project-Booking
-This repository includes university project files.
+#SMA for Booking.com 
+
+University project files.
 
 Draw.io diagrams
 
