@@ -2,20 +2,16 @@
 
 University project files.
 
-Draw.io diagrams
-
-In ProjectBooking you can see all diagrams in one file.
-
-> [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/Diagrams)
+- Draw.io diagrams
+  - In ProjectBooking you can see all diagrams in one file.
+  - [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/Diagrams)
 
 
+- MSSQL file
 
-MSSQL file
-
-> [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/Database)
-
+  - [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/Database)
 
 
-PowerBI file
+- PowerBI file
 
-> [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/PowerBIVisualization)
+  - [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/PowerBIVisualization)
