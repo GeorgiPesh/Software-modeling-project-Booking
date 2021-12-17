@@ -8,7 +8,7 @@
 (*In ProjectBooking you can see all diagrams in one file.*)
   - [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/Diagrams)
 
-- MSSQL file
+- Database (MSSQL) files
   - [Click](https://github.com/GeorgiPesh/Software-modeling-project-Booking/tree/main/Database)
 
 - PowerBI file
