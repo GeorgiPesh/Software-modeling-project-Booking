@@ -1,1 +1,1 @@
-[Pastebin for DB Script in MSSQL](https://pastebin.com/AqsHWdvU)
+[Pastebin for DB Script in MSSQL (never expires)](https://pastebin.com/AqsHWdvU)
